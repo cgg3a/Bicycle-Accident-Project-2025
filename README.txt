@@ -1,5 +1,5 @@
 These are files from a research project by Caleb Griffy analyzing bicycle crashes in Chicago.
-For more information on how this data was collected and how it was used, please read the attached paper.
+For more information on how this data was collected and how it was used, please read the paper.
 For a brief overview on what each file in this repository was for:
 
 1) Data was collected from these sources as of April 11th, 2025:
@@ -30,7 +30,3 @@ https://data.cityofchicago.org/Facilities-Geographic-Boundaries/Boundaries-City/
 https://data.cityofchicago.org/Transportation/Chicago-Traffic-Tracker-Historical-Congestion-Esti/kf7e-cur8/about_data
 
 6) The file getCrashRatios.ipynb was used to determine the EB-Estimates and historical congestion estimates of each region. These resutls are stored in the folder "Final Results". These are compared in the figures generated, which are also stored in the folder "Final Figures". Interpretations of these figures and more information on how to read them is contained in the paper.
-
-
-
-The paper can be found in the file "Caleb_Griffy_Geospatial_Analysis_of_Accidents_Involving_Bicycles_and_Bicycle_Route_Locations_in_Chicago_2025.pdf"
